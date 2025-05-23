@@ -1,10 +1,10 @@
 
 {
-    "name": "session name",
+    "name": "MERLIN-MD😉",
     "description": "Web Session Generator",
-    "logo": "image url",
-    "repository": "https://github.com/username/sesssion name",
-    "keywords": ["Malvin-Tech"],
+    "logo": "https://files.catbox.moe/131o52.jpg",
+    "repository": "https://github.com/sigmalord-nick/merlin-sessions/",
+    "keywords": ["MERLIN-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,7 +14,7 @@
         "required": false 
       },
       "MESSAGE": {
-        "description": "Just Leave This Blank",
+        "description": "just leave it blank",
         "value": "",
         "required": false 
       }
