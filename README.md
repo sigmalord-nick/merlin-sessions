@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/sigmalord-nick"><img src="https://github.com/sigmalord-nick.png" width="250" height="250" alt="MERLIN-MD"/></a>
+ <a href="https://github.com/sigmalord-nick"><img src="https://github.com/sigmalord-nick.png" width="250" height="250" alt="MERLIN"/></a>
 
    
