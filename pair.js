@@ -113,7 +113,7 @@ router.get('/', async (req, res) => {
                     const session = await Malvin.sendMessage(Malvin.user.id, { text: sid });
 
                     const MALVIN_TEXT = `
-🎉 *Welcome to Botname!* 🚀  
+🎉 *Welcome to MERLIN-MD!* 🚀  
 
 🔒 *Your Session ID* is ready!  ⚠️ _Keep it private and secure — dont share it with anyone._ 
 
@@ -126,9 +126,9 @@ router.get('/', async (req, res) => {
 
 🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z) 
 
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Malvin King GitHub Repo](https://github.com/kingmalvn/)  
+⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [MERLIN GitHub Repo](https://github.com/sigmalord-nick/)  
 
-🚀 _Thanks for choosing BOTNAME — Let the automation begin!_ ✨`;
+🚀 _Thanks for choosing Merlin — Let the automation begin!_ ✨`;
 
                     await Malvin.sendMessage(Malvin.user.id, { text: MALVIN_TEXT }, { quoted: session });
 
